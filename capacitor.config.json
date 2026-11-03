@@ -1,0 +1,9 @@
+{
+  "appId": "com.gameprofile30.app",
+  "appName": "Game Profile 30",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
